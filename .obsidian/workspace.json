@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/LearnCPP.com.md",
+                "file": "OPCUA/OPCUA/Address Space (10000 - 3).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Address Space (10000 - 3)"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LearnCPP.com"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "file": "C++/LearnCPP.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LearnCPP.com"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "C++/LearnCPP.com.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LearnCPP.com"
             }
           }
         ]
@@ -148,15 +164,21 @@
   },
   "active": "678177762e0e9782",
   "lastOpenFiles": [
-    "OPCUA/OPCUA/Overview (10000-1).md",
-    "C++/LearnCPP.com.md",
+    "C++/Compiling and Linking.md",
+    "C++/Pasted image 20240801163727.png",
     "OPCUA/OPCUA/Address Space (10000 - 3).md",
+    "C++/Pasted image 20240801163401.png",
+    "C++/Pasted image 20240801155037.png",
+    "C++/Sockets/Sockets (Primarily Winsock).md",
+    "C++/Sockets",
+    "OPCUA/OPCUA/Glossary.md",
+    "OPCUA/OPCUA/images/OPCUA_Object_Model.png",
+    "C++/LearnCPP.com.md",
+    "OPCUA/OPCUA/Overview (10000-1).md",
     "image006.png",
     "OPCUA/OPCUA/images/OPCUA_AddressSpace_Node_Model.png",
     "image005.png",
-    "OPCUA/OPCUA/images/OPCUA_Object_Model.png",
     "OPCUA/OPCUA/images",
-    "OPCUA/OPCUA/Glossary.md",
     "OPCUA/Open62541/Note1.md",
     "OPCUA/OPCUA",
     "C++",
